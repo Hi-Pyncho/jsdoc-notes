@@ -248,16 +248,6 @@ function addDec(x, y) {
 }
 ```
 
-### Опциональные параметры
-```js
-/**
- * @param {number} [x] опционально
- * @param {number=} y number или undefined
- * @param {number} [z=1] опционально со значением по умолчанию
- */
-function jsDocOptional(x, y, z = 1) {}
-```
-
 ### С оператором Rest
 ```js
 /**
